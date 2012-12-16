@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml version="99.999" encoding="UTF-8"?>
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.phonegap.hello-world"
         id        = "com.thegapstander.awesome"
         version   = "2.0.0">
-    <name>Hello World</name>
     <name>My Awesome App</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
         Hello and welcome to my awesome app!
     </description>
 
